@@ -15,7 +15,7 @@ dependencies {
 
 sonar {
     properties {
-        property 'sonar.projectKey', 'example-gradle-simple-master'
+        property 'sonar.projectKey', 'example-gradle-simple'
 
         property 'sonar.sources', 'src/main/gosu'
         property 'sonar.tests', 'src/test/gosu'
